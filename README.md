@@ -53,9 +53,8 @@ From 3D web experiences to backend APIs and CI/CD pipelines — I love turning i
 ### 🤝 Connect with Me
 <p align="left">
   <a href="https://shokhtalat.org" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white"/></a>
-  <a href="mailto:shokhrukhtalatov.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shokhrukhtalatov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+  <a href="mailto:shokhtalat@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
 
 ---
 
