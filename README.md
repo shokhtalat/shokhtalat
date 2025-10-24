@@ -26,9 +26,9 @@ From 3D web experiences to backend APIs and CI/CD pipelines — I love turning i
 
 ### 💡 Featured Projects
 
-- 🏍 **[Two-Wheelers](https://github.com/shokhtalat/two-wheelers)** — Motorcycle marketplace built with Next.js + NestJS GraphQL  
-- 🥦 **[Organick](https://github.com/shokhtalat/organick-project)** — E-commerce food platform with clean UI and modular backend  
-- 📈 **[Signalist](https://github.com/shokhtalat/signalist-stock-tracker)** — AI-powered stock tracking & alert system  
+- 🏍 **[Two-Wheelers](http://two-wheelers.shokhtalat.org)** — Motorcycle marketplace built with Next.js + NestJS GraphQL  
+- 🥦 **[Organick](http://organick.shokhtalat.org)** — E-commerce food platform with clean UI and modular backend  
+- 📈 **[Signalist](https://signalist-stock-tracker-app-one.vercel.app/)** — AI-powered stock tracking & alert system  
 - 🌐 **[3D Portfolio](https://shokhtalat.org)** — Personal website with 3D animations and GSAP transitions
 
 ---
