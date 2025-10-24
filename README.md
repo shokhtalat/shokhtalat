@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I’m Tyler (Shokhrukh Talatov, 서후)
 
-<!--
-**shokhtalat/shokhtalat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack & DevOps Engineer** passionate about building, deploying, and scaling real-world applications.  
+From 3D web experiences to backend APIs and CI/CD pipelines — I love turning ideas into production-ready systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🧩 Focused on **Next.js**, **NestJS**, **TypeScript**, **Node.js**, and **MongoDB**
+- ⚙️ Experienced with **Docker**, **NGINX**, **CI/CD pipelines**, and **VPS deployments**
+- 🌐 Interested in **DevOps**, **backend architecture**, and **real-time applications**
+- 📫 Portfolio: [https://shokhtalat.org](https://shokhtalat.org)
+- 💼 Currently open and **ready to start** new opportunities!
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:**  
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Three.js` · `GSAP`
+
+**Backend & DevOps:**  
+`NestJS` · `Node.js` · `MongoDB` · `Docker` · `NGINX` · `CI/CD` · `Linux VPS`
+
+---
+
+### 💡 Featured Projects
+
+- 🏍 **[Two-Wheelers](https://github.com/shokhtalat/two-wheelers)** — Motorcycle marketplace built with Next.js + NestJS GraphQL  
+- 🥦 **[Organick](https://github.com/shokhtalat/organick-project)** — E-commerce food platform with clean UI and modular backend  
+- 📈 **[Signalist](https://github.com/shokhtalat/signalist-stock-tracker)** — AI-powered stock tracking & alert system  
+- 🌐 **[3D Portfolio](https://shokhtalat.org)** — Personal website with 3D animations and GSAP transitions
+
+---
+
+### ⚙️ DevOps & Workflow
+- 🐳 Containerized services with **Docker & Docker Compose**
+- 🔄 Automated deployment via **GitHub Actions**
+- 🌍 Reverse proxy & HTTPS with **NGINX + Certbot**
+- 📦 PM2 & VPS setup for production reliability
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shokhtalat&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokhtalat&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://shokhtalat.org" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=react&logoColor=white"/></a>
+  <a href="mailto:shokhrukhtalatov.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shokhrukhtalatov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+> 💬 “Code, deploy, and repeat — I build systems that last.”
