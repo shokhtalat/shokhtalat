@@ -44,7 +44,7 @@ From 3D web experiences to backend APIs and CI/CD pipelines — I love turning i
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salahbm&theme=github" alt="GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shokhtalat&theme=github" alt="GitHub Stats" />
 </div>
 
 ---
