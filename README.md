@@ -44,8 +44,7 @@ From 3D web experiences to backend APIs and CI/CD pipelines — I love turning i
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shokhtalat&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shokhtalat&layout=compact&theme=tokyonight" height="150"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?shokhtalat=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
