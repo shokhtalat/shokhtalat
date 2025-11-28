@@ -44,7 +44,7 @@ From 3D web experiences to backend APIs and CI/CD pipelines — I love turning i
 ### 📊 GitHub Stats
 
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?shokhtalat=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  
 </p>
 
 ---
