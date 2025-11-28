@@ -44,7 +44,7 @@ From 3D web experiences to backend APIs and CI/CD pipelines — I love turning i
 ### 📊 GitHub Stats
 
 <p align="center">
-  
+  ![Shokhrukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shokhtalat&show_icons=true&theme=tokyonight)
 </p>
 
 ---
