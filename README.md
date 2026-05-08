@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Tyler (Shokhrukh Talatov, 서후)
+# 👋 Hi, I’m Shokhrukh (서후)
 
 🚀 **Full-Stack & DevOps Engineer** passionate about building, deploying, and scaling real-world applications.  
 From 3D web experiences to backend APIs and CI/CD pipelines — I love turning ideas into production-ready systems.
